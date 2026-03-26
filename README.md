@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # prova_eletronica_app
 
 A new Flutter project.
@@ -17,5 +16,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# sistema-de_provas
->>>>>>> 98bf19e1464748f23f08ef6a88e3359ffa1ff093
